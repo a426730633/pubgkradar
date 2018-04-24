@@ -4,7 +4,15 @@
   "watchexps": [
     "static/**"
   ],
-  "proxy": "http://localhost:20086",
+  "proxy": "http://localhost:386",
+  "proxypaths": [
+   "/api"
+  ]],
+  "proxy": "http://localhost:486",
+  "proxypaths": [
+   "/api"
+  ]],
+  "proxy": "http://localhost:586",
   "proxypaths": [
    "/api"
   ]
